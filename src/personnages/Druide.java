@@ -19,5 +19,13 @@ public class Druide {
 	private String prendreParole() {
 		return "Le druide " + nom + " : ";
 	}
+	public void preparerPotion() {
+		// TODO Auto-generated method stub
+		
+	}
+	public void booster(Gaulois obelix) {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
